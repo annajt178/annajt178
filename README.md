@@ -2,7 +2,7 @@
 
 <!--
 **annajt178/annajt178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+(https://media.giphy.com/media/5qcnRWFWfZyXC/source.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
